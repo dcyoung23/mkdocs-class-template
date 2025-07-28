@@ -9,5 +9,5 @@
 
 | Week / Topic(s)                                             | Class Date       |     Reading          |   Quiz        |   Participation    |   Assignments     |
 |:------------------------------------------------------------|:-----------------|:---------------------|:--------------|:-------------------|:------------------|
-| 1. [Week 1](notes/week_1.md)                                | mm/d/YYYY        |     1-2, 4           |    1          |                    |   HW1             |
-| 2. [Week 2](notes/week_2.md)                                | mm/d/YYYY5       |     3, 6             |    2          |   CP0              |   HW2             |
+| 1. [Week 1](notes/week_1.md)                                | mm/dd/YYYY       |     1-2, 4           |    1          |                    |   HW1             |
+| 2. [Week 2](notes/week_2.md)                                | mm/dd/YYYY       |     3, 6             |    2          |   CP0              |   HW2             |
