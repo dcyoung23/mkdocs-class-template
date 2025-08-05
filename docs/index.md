@@ -7,7 +7,4 @@
 
 ### **Course Calendar**
 
-| Week / Topic(s)                                             | Class Date       |     Reading          |   Quiz        |   Participation    |   Assignments     |
-|:------------------------------------------------------------|:-----------------|:---------------------|:--------------|:-------------------|:------------------|
-| 1. [Week 1](notes/week_1.md)                                | mm/dd/YYYY       |     1-2, 4           |    1          |                    |   HW1             |
-| 2. [Week 2](notes/week_2.md)                                | mm/dd/YYYY       |     3, 6             |    2          |   CP0              |   HW2             |
+{{ course_calendar_table() }}
